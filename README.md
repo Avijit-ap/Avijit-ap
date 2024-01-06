@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Avijit👨‍💻...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 - 👋 Hi, I’m @Avijit-ap
 - 👀 I’m interested in Web Devolopment, AI/ML, and Software Devolopment 💻💻
 - 🌱 I’m currently learning Computer Science and Enginnering...
